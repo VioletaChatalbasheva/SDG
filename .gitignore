@@ -1,0 +1,10 @@
+outputs
+*.egg-info
+src
+test.ipynb
+
+*.ckpt
+__pycache__/
+.vscode/
+*.pyc
+.idea/
